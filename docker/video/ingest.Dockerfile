@@ -1,4 +1,4 @@
-FROM ubuntu:lunar
+FROM ubuntu:mantic-20240530
 
 LABEL org.opencontainers.image.source=https://github.com/scuffletv/scuffle
 LABEL org.opencontainers.image.description="Video Ingest Container for ScuffleTV"
