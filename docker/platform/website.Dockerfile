@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.29.3-alpine3.22
 
 LABEL org.opencontainers.image.source=https://github.com/scuffletv/scuffle
 LABEL org.opencontainers.image.description="Platform Website Container for ScuffleTV"
