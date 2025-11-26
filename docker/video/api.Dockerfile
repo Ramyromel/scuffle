@@ -1,4 +1,4 @@
-FROM ubuntu:lunar
+FROM ubuntu:23.10
 
 LABEL org.opencontainers.image.source=https://github.com/scuffletv/scuffle
 LABEL org.opencontainers.image.description="Video API Container for ScuffleTV"
