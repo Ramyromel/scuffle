@@ -1,4 +1,4 @@
-FROM ubuntu:lunar
+FROM ubuntu:mantic-20240405
 
 LABEL org.opencontainers.image.source=https://github.com/scuffletv/scuffle
 LABEL org.opencontainers.image.description="Platform Image Processor Container for ScuffleTV"
